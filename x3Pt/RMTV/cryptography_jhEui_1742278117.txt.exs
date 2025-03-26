@@ -56,7 +56,6 @@
       #
       strict: false,
       #
-      # To modify the timeout for parsing files, change this value:
       #
       parse_timeout: 5000,
       #
