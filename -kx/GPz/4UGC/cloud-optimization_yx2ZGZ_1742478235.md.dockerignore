@@ -1,6 +1,5 @@
 .angular
 .devcontainer
-.dockerignore
 .env
 .git
 .gitattributes
