@@ -1,5 +1,4 @@
 [codespell]
-# Ref: https://github.com/codespell-project/codespell#using-a-config-file
 check-hidden = true
 ignore-regex = .*Te\{0\}st.*
 # ignore-words-list =
