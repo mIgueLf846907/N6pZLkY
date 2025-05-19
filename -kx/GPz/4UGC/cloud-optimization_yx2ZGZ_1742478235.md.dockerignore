@@ -8,7 +8,6 @@
 .husky
 .idea
 *.log
-.nx
 .vscode
 assets
 builds
