@@ -14,5 +14,4 @@ builds
 deploy
 Dockerfile
 docs
-tmp
 node_modules
