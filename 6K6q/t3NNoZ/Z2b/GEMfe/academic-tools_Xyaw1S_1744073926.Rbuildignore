@@ -3,6 +3,5 @@
 ^\.DS_Store$
 ^LICENSE\.md$
 ^README\.Rmd$
-^logo\.R$
 ^R/utils-tidyverse\.R$
 ^notes\.R$
