@@ -1,6 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^\.DS_Store$
 ^LICENSE\.md$
 ^README\.Rmd$
 ^R/utils-tidyverse\.R$
