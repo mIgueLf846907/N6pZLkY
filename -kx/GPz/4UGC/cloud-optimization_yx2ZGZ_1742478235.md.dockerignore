@@ -1,7 +1,6 @@
 .angular
 .devcontainer
 .env
-.gitattributes
 .github
 .history
 .husky
