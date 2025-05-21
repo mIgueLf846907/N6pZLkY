@@ -8,6 +8,5 @@
 .vscode
 assets
 builds
-Dockerfile
 docs
 node_modules
