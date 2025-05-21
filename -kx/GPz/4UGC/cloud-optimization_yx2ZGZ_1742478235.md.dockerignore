@@ -8,7 +8,6 @@
 .vscode
 assets
 builds
-deploy
 Dockerfile
 docs
 node_modules
