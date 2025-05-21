@@ -7,6 +7,5 @@
 *.log
 .vscode
 assets
-builds
 docs
 node_modules
