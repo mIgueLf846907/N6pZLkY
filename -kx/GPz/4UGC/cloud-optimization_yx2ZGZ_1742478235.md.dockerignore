@@ -2,7 +2,6 @@
 .env
 .history
 .husky
-.idea
 *.log
 .vscode
 assets
