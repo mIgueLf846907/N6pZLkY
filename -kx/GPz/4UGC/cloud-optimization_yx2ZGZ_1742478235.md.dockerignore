@@ -1,6 +1,5 @@
 .env
 .history
-.husky
 *.log
 .vscode
 assets
