@@ -34,7 +34,6 @@ This module contains a series of practical, hands-on workshops, which enable stu
 
 The module combines studio and lab content with online resources, providing additional support and opportunities to build upon knowledge acquired during workshops. Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding.
 
-Indicative lecture content includes:
 
 + Point, Line, Plane
 + Rhythm and Balance
